@@ -1,5 +1,5 @@
 <h2> Hello There! <strike><em>General Kenobi.</em></strike> My name is Nikolas and I'm a full-stack dev based in Brazil.</h2>
-<h1 align="center">:)<h1>
+<p align="center">👨‍💻<p>
 <p align="center">
     <a
         href="https://github.com/nkabz"
