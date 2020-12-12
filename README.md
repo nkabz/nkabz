@@ -19,8 +19,6 @@
         <td align="center">
             <img src="https://github-readme-stats-lake-nine.vercel.app/api?username=nkabz&count_private=true&show_icons=true&theme=dark"/>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://github-readme-stats-lake-nine.vercel.app/api/top-langs/?username=nkabz&theme=dark&layout=compact&langs_count=4" />
         </td>
