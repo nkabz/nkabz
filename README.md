@@ -1,4 +1,4 @@
-<h2> Hello There! <strike><em>General Kenobi.</em></strike> My name is Nikolas and I'm a full-stack dev based in Brazil.</h2>
+<h2> Hello There! <strike><em>General Kenobi.</em></strike> My name is Nikolas and I'm a Software Developer based in Enschede, Netherlands.</h2>
 <p align="center">👨‍💻<p>
 <p align="center">
     <a
